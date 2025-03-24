@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction-ML
-![Heart Disease logo](Img(Heart Disease.png)
+![Heart Disease logo](https://github.com/AnimeshTrivedi123/Heart-Disease-Prediction-ML/blob/a8b29099dac221f9427ea6d1484d3e37612471d5/Heart%20Disease.png)
 ## Overview
 This project aims to develop a machine learning model that can predict whether a patient has heart disease based on clinical attributes. The model is built using Python-based machine learning and data science libraries.
 
