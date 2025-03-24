@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction-ML
-![Heart Disease logo](Img(Netflix).jpg)
+![Heart Disease logo](Img(Heart Disease.png)
 ## Overview
 This project aims to develop a machine learning model that can predict whether a patient has heart disease based on clinical attributes. The model is built using Python-based machine learning and data science libraries.
 
